@@ -4,8 +4,8 @@
         "title": "Hi, I'm Gokul",
         "subtitles": [
             "Full-stack Web Developer",
-            "Reasearching Security",
-            "Exploring Devops",
+            "Researching Security",
+            "Exploring DevOps",
             "Always Learning"
         ],
         "professionalDetails": [
@@ -35,13 +35,12 @@
             "Python",
             "HTML5",
             "CSS3",
-            "MySQL"
+            "SQL"
         ],
         "Frontend": [
             "React",
             "Next.js",
             "Vercel",
-            "MUI",
             "Chakra UI",
             "Bootstrap"
         ],
